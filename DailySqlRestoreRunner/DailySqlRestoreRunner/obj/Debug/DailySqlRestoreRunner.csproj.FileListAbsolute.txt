@@ -1,0 +1,10 @@
+C:\projects\DailySqlRestoreRunner\DailySqlRestoreRunner\bin\Debug\DailySqlRestoreRunner.exe.config
+C:\projects\DailySqlRestoreRunner\DailySqlRestoreRunner\bin\Debug\DailySqlRestoreRunner.exe
+C:\projects\DailySqlRestoreRunner\DailySqlRestoreRunner\bin\Debug\DailySqlRestoreRunner.pdb
+C:\projects\DailySqlRestoreRunner\DailySqlRestoreRunner\bin\Debug\Dapper.dll
+C:\projects\DailySqlRestoreRunner\DailySqlRestoreRunner\bin\Debug\Dapper.xml
+C:\projects\DailySqlRestoreRunner\DailySqlRestoreRunner\obj\Debug\DailySqlRestoreRunner.csprojAssemblyReference.cache
+C:\projects\DailySqlRestoreRunner\DailySqlRestoreRunner\obj\Debug\DailySqlRestoreRunner.csproj.CoreCompileInputs.cache
+C:\projects\DailySqlRestoreRunner\DailySqlRestoreRunner\obj\Debug\DailySqlRestoreRunner.csproj.CopyComplete
+C:\projects\DailySqlRestoreRunner\DailySqlRestoreRunner\obj\Debug\DailySqlRestoreRunner.exe
+C:\projects\DailySqlRestoreRunner\DailySqlRestoreRunner\obj\Debug\DailySqlRestoreRunner.pdb
